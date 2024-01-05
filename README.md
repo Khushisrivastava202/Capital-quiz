@@ -1,6 +1,11 @@
 # Capital City Quiz Web Project
 
 Welcome to the Capital City Quiz Web Project! This is a simple web application designed to test your knowledge of capital cities around the world.
+Screenshot:
+![image](https://github.com/Khushisrivastava202/Capital-quiz/assets/82716033/4387db80-7176-4415-b69a-a95ef32c3b0b)
+![image](https://github.com/Khushisrivastava202/Capital-quiz/assets/82716033/a8d4c996-490a-420a-9304-adba98c8cdc5)
+
+
 
 ## Getting Started
 
@@ -15,22 +20,15 @@ To run this project locally, follow these steps:
    ```bash
    cd Capital-quiz
    ```
-
-3. Open the `index.html` file in your web browser.
+   
+3. Install dependencies:
+    npm intall
+   
+5. Run the application:
+   npm start or nodemon index.js(if installed)
 
 ## Features
 
 - Quiz questions about capital cities.
 - Simple and intuitive user interface.
 
-## Contributing
-
-If you'd like to contribute to the project, feel free to submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- Thank you to [OpenTriviaDatabase](https://opentdb.com/) for providing quiz questions.
